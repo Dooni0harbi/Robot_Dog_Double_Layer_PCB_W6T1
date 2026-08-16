@@ -181,7 +181,7 @@ The Bottom View shows the underside of the PCB, including the through-hole pads 
 Robot_Dog_Double_Layer_PCB/
 │
 ├── README.md
-├── PCB_PCB_Robot_Dog_PCB_
+├── PCB_PCB_Robot_Dog_PCB_.json
 ├── BOM_Robot_Dog_PCB_.csv
 │
 └── images/
