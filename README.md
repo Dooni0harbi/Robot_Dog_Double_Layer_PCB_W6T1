@@ -160,7 +160,7 @@ The Perspective View provides a clearer representation of component placement, h
 
 ## Bottom View
 
-![PCB 3D Bottom View](images/3d bottom.png)
+![PCB 3D Bottom View](images/3d_bottom.png)
 
 The Bottom View shows the underside of the PCB, including the through-hole pads and the physical structure of the board.
 
