@@ -196,32 +196,7 @@ Robot_Dog_Double_Layer_PCB/
     └── 3d bottom.png
 ```
 
----
-
-# ✅ Task Implementation
-
-The required PCB task was successfully implemented in **EasyEDA** through the following workflow:
-
-**Schematic Design → Convert Schematic to PCB → Board Outline & 2-Layer PCB Setup → Component Placement → Route Tracks → Copper Area → Export PCB BOM → 3D Preview**
-
-The final result is a **75 mm × 35 mm double-layer PCB** designed to organize the main electronic connections of the quadruped robot dog into one structured board.
-
----
 
 ##  Internship Context
 
 This task was completed as part of my **Robotics Engineering Internship at Smart Methods (الأساليب الذكية)** within the **Electronics & Electrical Power Engineering Track**.
-
-Through this task, I practically applied the concepts and skills taught during the training, including:
-
-* Electronic Schematic design
-* PCB layout development
-* Board Outline configuration
-* Double-layer PCB design
-* Component placement
-* Track routing
-* Copper Area implementation
-* PCB BOM generation
-* 3D PCB inspection
-
-The PCB is also part of the broader **Robot Dog project**, where the concepts and skills learned throughout the Robotics Engineering internship are being applied within one integrated robotic system.
